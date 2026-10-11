@@ -1,0 +1,4 @@
+pcb/starpet-backups/
+*.bck
+*.kicad_prl
+*-bak
