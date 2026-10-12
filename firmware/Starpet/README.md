@@ -15,7 +15,7 @@ via an onboard accelerometer.
 
 ### Meet My Pet
 * **Sprite Style:** Custom 32x32 pixel monochrome cat sprite.
-* **Favorite Food:** [Type a custom food item you added, like Sushi or Fish!]
+
 
 ---
 
