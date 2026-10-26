@@ -1,5 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-0.96 OLED,1,Amazon,$2.50,$2.50,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,Amazon,$2.29,$2.29,https://www.amazon.com/dp/B0943SGP34
 DHT11,1,Amazon,$3.33,$3.33,https://www.amazon.com/dp/B0BLG7R99R
 MX Switches,4,Amazon,$0.18,$0.72,https://www.amazon.com//dp/B0FQP8VYX4
