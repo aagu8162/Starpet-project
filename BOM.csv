@@ -1,21 +1,8 @@
-Part,Qty,Unit,Vendor,Notes
-XIAO ESP32 C3,1,$6.70,https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/,Microcontroller board
-0.96 OLED,1,$2.20,https://sharvielectronics.com/product/0-96-inch-i2c-4pin-oled-display-module-white/,Display screen
-MPU6050,1,$1.98,https://sharvielectronics.com/product/mpu-6050-3-axis-accelerometer-and-gyro-sensor/,Gyroscope and Accelerometer sensor
-DHT11,1,$0.72,https://sharvielectronics.com/product/dht11-temperature-and-humidity-sensor-module/,Temperature and humidity sensor
-10k Resistor,10,$0.18,https://sharvielectronics.com/product/10k-ohm-1-4-watt-resistor-1-tolerance/,Pull-up circuit resistor
-PCB,1,$9.90 ,https://www.seeedstudio.com/fusion_pcb.html,Custom circuit board manufacturing
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-Total Price (USD):,$21.68,,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32 C3,1,https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-w,$0.00,$0.00,
+0.96 OLED,1,https://sharvielectronics.com/product/0-96-inch-i2c-4pin-oled-display-module-whi,$0.00,$0.00,
+MPU6050,1,https://sharvielectronics.com/product/mpu-6050-3-axis-accelerometer-and-gyro-sen,$0.00,$0.00,
+DHT11,1,https://sharvielectronics.com/product/dht11-temperature-and-humidity-sensor-modu,$0.00,$0.00,
+10k Resistor,10,https://sharvielectronics.com/product/10k-ohm-1-4-watt-resistor-1-tolerance/,$0.00,$0.00,
+PCB,1,https://www.seeedstudio.com/fusion_pcb.html,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
