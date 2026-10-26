@@ -1,21 +1,10 @@
-Item Name,Qty,Price (total) (USD),Item link,Notes
-XIAO ESP32 C3,1,$6.70,https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/,Microcontroller board
-0.96 OLED,1,$2.20,https://sharvielectronics.com/product/0-96-inch-i2c-4pin-oled-display-module-white/,Display screen
-MPU6050,1,$1.98,https://sharvielectronics.com/product/mpu-6050-3-axis-accelerometer-and-gyro-sensor/,Gyroscope and Accelerometer sensor
-DHT11,1,$0.72,https://sharvielectronics.com/product/dht11-temperature-and-humidity-sensor-module/,Temperature and humidity sensor
-10k Resistor,10,$0.18,https://sharvielectronics.com/product/10k-ohm-1-4-watt-resistor-1-tolerance/,Pull-up circuit resistor
-PCB,1,$9.90 ,https://www.seeedstudio.com/fusion_pcb.html,Custom circuit board manufacturing
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-Total Price (USD):,$21.68,,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32 C3,1,Seeed Studio,$5.00,$5.00,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+0.96 OLED,1,Amazon,$2.50,$2.50,https://www.amazon.com/dp/B0GBVWBWCR
+MPU6050,1,Amazon,$2.29,$2.29,https://www.amazon.com/dp/B0943SGP34
+DHT11,1,Amazon,$3.33,$3.33,https://www.amazon.com/dp/B0BLG7R99R
+MX Switches,4,Amazon,$0.18,$0.72,https://www.amazon.com//dp/B0FQP8VYX4
+Keycaps,4,Amazon,$0.60,$2.40,https://www.amazon.com/dp/B0CQ2VLMVY
+10k Resistor,1,Amazon,$0.05,$0.05,https://www.amazon.com/dp/B0B4JFPHTW
+PCB,1,JLCPCB,$10.00,$10.00,https://www.jlcpcb.com/
+Estimated total shipping,1,,,$0.00,
