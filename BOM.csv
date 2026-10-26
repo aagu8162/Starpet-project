@@ -1,4 +1,4 @@
-Part,Qty,Unit,Vendor,Notes
+PART,QTY,UNIT,VENDOR,Notes
 XIAO ESP32 C3,1,6.70,https://sharvielectronics.com/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wifi-and-ble-battery-charge-supported-module/,Microcontroller board
 0.96 OLED,1,2.20,https://sharvielectronics.com/product/0-96-inch-i2c-4pin-oled-display-module-white/,Display screen
 MPU6050,1,1.98,https://sharvielectronics.com/product/mpu-6050-3-axis-accelerometer-and-gyro-sensor/,Gyroscope and Accelerometer sensor
